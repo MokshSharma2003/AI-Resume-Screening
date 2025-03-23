@@ -1,27 +1,35 @@
-🚀 AI Resume Screening & Ranking System
-📌 Overview
-This project is an AI-powered Resume Screening & Ranking System that helps recruiters evaluate multiple resumes against a given job description. It uses Natural Language Processing (NLP) 🤖 and Fuzzy Matching 🔍 techniques to score and rank resumes based on keyword relevance.
+# 🚀 AI Resume Screening & Ranking System  
 
-✨ Features
-✅ Upload multiple PDF resumes 📄 at once
-✅ Enter a job description 📝 with required skills
-✅ Automatically rank resumes 📊 based on relevance
-✅ Display scores ⭐ and ranking results with feedback
-✅ User-friendly web interface 🌐
+📌 **Overview**  
+This project is an AI-powered Resume Screening & Ranking System that helps recruiters evaluate multiple resumes against a given job description.  
+It uses **Natural Language Processing (NLP) 🤖** and **Fuzzy Matching 🔍** techniques to score and rank resumes based on keyword relevance.  
 
-🛠️ Technologies Used
-🔹 Programming Language: Python 🐍
-🔹 Frameworks/Libraries: Flask ⚙️, FuzzyWuzzy 🤓, PyPDF2 📑, Pandas 📊, Scikit-learn 🧠
-🔹 Frontend: HTML, CSS, JavaScript (React.js) 🎨
-🔹 Tools: VS Code 🖥️, Git/GitHub 🛠️, Replit 💻
+---
 
-🚀 Installation & Setup
-1️⃣ Clone the Repository
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/AI-Resume-Screening.git
-cd AI-Resume-Screening
+## ✨ Features  
+✅ Upload multiple **PDF resumes 📄** at once  
+✅ Enter a **job description 📝** with required skills  
+✅ **Automatically rank resumes 📊** based on relevance  
+✅ **Display scores ⭐** and ranking results with feedback  
+✅ **User-friendly web interface 🌐**  
+
+---
+
+## 🛠 Technologies Used  
+🔹 **Programming Language:** Python 🐍  
+🔹 **Frameworks/Libraries:** Flask ⚙️, FuzzyWuzzy 🤓, PyPDF2 📑, Pandas 📚, Scikit-learn 🧠  
+🔹 **Frontend:** HTML, CSS, JavaScript (React.js) 🎨  
+🔹 **Tools:** VS Code 🖥, Git/GitHub 🛠, Replit 💻  
+
+---
+
+## 🚀 Installation & Setup  
+
+1️⃣ **Clone the Repository**  
+```sh
+git clone https://github.com/yourusername/AI-Resume-Screening.git  
+cd AI-Resume-Screening  
+
 2️⃣ Install Dependencies
 sh
 Copy
